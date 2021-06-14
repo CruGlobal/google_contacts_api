@@ -1,3 +1,5 @@
+# Deprecated: This fork was originally created to support MPDX, which no longer uses this gem. Don't use this fork.
+
 # google_contacts_api
 
 An unofficial Google Contacts API for ruby. Might not be stable (but probably is).
